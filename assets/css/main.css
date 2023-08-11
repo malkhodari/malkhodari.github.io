@@ -72,11 +72,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-.zoom
-{
-    zoom: 120%;
-}
-
 /* Basic */
 
 	@-ms-viewport {
